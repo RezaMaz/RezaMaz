@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reza Mazloom
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Reactive programming
+- 🌱 I’m currently learning k8s
 - 💞️ I’m looking to collaborate on open source java projects
 - 📫 How to reach me rmazloom88@gmail.com
 
